@@ -1,0 +1,16 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "express js currently  running on my laptop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "intezar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-hbs": "^2.4.0",
+    "hbs": "^4.2.0"
+  }
+}
